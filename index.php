@@ -605,6 +605,102 @@
                 </div>
             </div>
         </div>
+        <div class="razdelitel">
+            <div class="background">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 z-index100">
+                            <h5>Lorem ipsum dolor.</h5>
+
+                            <div class="content">
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consectetur dolores,
+                                    eveniet facere hic illum, laboriosam laudantium non odit officiis porro, quasi
+                                    sequi. Autem cumque illo odio, officiis saepe ullam.
+                                </p>
+
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-3 col-sm-12">
+                                            <div class="quad">
+                                                <div class="my-tooltip">
+                                                    <ul>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                    </ul>
+                                                </div>
+                                                <span class="arrow-down"></span>
+
+                                                <div class="background-box"></div>
+                                                <div class="background-box-line"></div>
+                                                <div class="box-process-icon">
+                                                    <i class="fa fa-lightbulb-o"></i>
+                                                </div>
+                                                <div class="text">
+                                                    Идея
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-1 hidden-sm hidden-xs separator">
+                                            <i class="fa fa-angle-right"></i>
+                                        </div>
+                                        <div class="col-md-3 col-sm-12">
+                                            <div class="quad">
+                                                <div class="my-tooltip">
+                                                    <ul>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                    </ul>
+                                                </div>
+                                                <span class="arrow-down"></span>
+
+                                                <div class="background-box"></div>
+                                                <div class="background-box-line"></div>
+                                                <div class="box-process-icon">
+                                                    <i class="fa fa-cog fa-spin"></i>
+                                                </div>
+                                                <div class="text">
+                                                    Разработка
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-1 hidden-sm hidden-xs separator">
+                                            <i class="fa fa-angle-right"></i>
+                                        </div>
+                                        <div class="col-md-3 col-sm-12">
+                                            <div class="quad">
+                                                <div class="my-tooltip">
+                                                    <ul>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                        <li>Lorem ipsum dolor.</li>
+                                                    </ul>
+                                                </div>
+                                                <span class="arrow-down"></span>
+
+                                                <div class="background-box"></div>
+                                                <div class="background-box-line"></div>
+                                                <div class="box-process-icon">
+                                                    <i class="fa fa-flag-checkered"></i>
+                                                </div>
+                                                <div class="text">
+                                                    Установка
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </sektion>
 <sektion id="section-8">
