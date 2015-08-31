@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(window).load(function () {
 
     //======================================================
     //Паралакс эффекты
@@ -32,14 +32,46 @@ $(document).ready(function () {
     });
     //======================================================
 
-    //owl-section-1
+    //owl-section-7
     $(function () {
-        $("#owl-section-1").owlCarousel({
-            autoPlay: 3000,
+        var owl = $("#owl-info");
+        owl.owlCarousel({
+            singleItem: true,
+            navigation: true,
+            pagination: false,
+            navigationText: ["", ""],
+            autoHeight: true,
+        });
+        //======================================================
+        //Фикс OWL слайдера
+        var myHeight = $(window).width();
+        if (myHeight > 320){
+            $("#owl-info .owl-wrapper-outer").css('height', 757);
+        }
+        if (myHeight > 1100){
+            $("#owl-info .owl-wrapper-outer").css('height', 486);
+        }
+        if (myHeight <= 320){
+            $("#owl-info .owl-wrapper-outer").css('height', 645);
+        }
+        //======================================================
+    });
+    //owl-section-7 slyd-1
+    $(function () {
+        var owlSlyd1 = $("#owl-slyd-1");
+        owlSlyd1.owlCarousel({
             singleItem: true,
             navigation: false,
-            pagination: false,
-            lazyEffect: false,
+            autoPlay: true,
+        });
+    });
+    //owl-section-7 slyd-2
+    $(function () {
+        var owlSlyd2 = $("#owl-slyd-2");
+        owlSlyd2.owlCarousel({
+            singleItem: true,
+            navigation: false,
+            autoPlay: true,
         });
     });
 
@@ -55,13 +87,13 @@ $(document).ready(function () {
     //==========================================================
 
     //фиксация меню при скроле
-    $(function(){
+    $(function () {
         var offset = $("nav.navbar").offset();
-        $(window).scroll(function(){
+        $(window).scroll(function () {
             if ($(window).scrollTop() > offset.top) {
                 $("nav.navbar").addClass("navbar-fixed-top");
                 $("#about").css('padding-top', 90);
-            }else{
+            } else {
                 $("nav.navbar").removeClass("navbar-fixed-top");
                 $("#about").css('padding-top', 40);
             }
@@ -71,8 +103,8 @@ $(document).ready(function () {
     //==========================================================
 
     //отриосвка % скила в зависимости от значения атрибута data
-    $(function(){
-        $(".skillbar").each(function(){
+    $(function () {
+        $(".skillbar").each(function () {
             var a = $(this).find(".skillbar-percent").data('skillbarPercent');
             $(this).find(".skillbar-bar").css("width", a);
             $(this).find(".skillbar-percent").html(a);
@@ -104,7 +136,6 @@ $(document).ready(function () {
     });
 
     //======================================================
-
 
 
 })

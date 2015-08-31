@@ -219,10 +219,12 @@
             <div class="row">
                 <h2>Lorem ipsum dolor.</h2>
                 <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+
                 <div class="col-md-3 wow animated rotateInDownLeft" data-wow-delay="0.5s">
                     <div class="columns-team">
                         <div class="team-photo">
                             <img src="/css/img/team-1.jpg" alt="Директор">
+
                             <div class="fon"></div>
                             <p>Контакты Ивана</p>
                             <ul>
@@ -233,8 +235,10 @@
                         </div>
                         <h5>Иванов Иван</h5>
                         <h6>Менеджер</h6>
+
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam debitis dicta ex illo minus
                             nemo quidem sequi, similique. Nihil, repudiandae.</p>
+
                         <div class="skillbar">
                             <div class="skillbar-title">
                                 <span>lorem</span>
@@ -262,6 +266,7 @@
                     <div class="columns-team">
                         <div class="team-photo">
                             <img src="/css/img/team-1.jpg" alt="Директор">
+
                             <div class="fon"></div>
                             <p>Контакты Ивана</p>
                             <ul>
@@ -272,8 +277,10 @@
                         </div>
                         <h5>Иванов Иван</h5>
                         <h6>Менеджер</h6>
+
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam debitis dicta ex illo minus
                             nemo quidem sequi, similique. Nihil, repudiandae.</p>
+
                         <div class="skillbar">
                             <div class="skillbar-title">
                                 <span>lorem</span>
@@ -301,6 +308,7 @@
                     <div class="columns-team">
                         <div class="team-photo">
                             <img src="/css/img/team-1.jpg" alt="Директор">
+
                             <div class="fon"></div>
                             <p>Контакты Ивана</p>
                             <ul>
@@ -311,8 +319,10 @@
                         </div>
                         <h5>Иванов Иван</h5>
                         <h6>Менеджер</h6>
+
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam debitis dicta ex illo minus
                             nemo quidem sequi, similique. Nihil, repudiandae.</p>
+
                         <div class="skillbar">
                             <div class="skillbar-title">
                                 <span>lorem</span>
@@ -340,6 +350,7 @@
                     <div class="columns-team">
                         <div class="team-photo">
                             <img src="/css/img/team-1.jpg" alt="Директор">
+
                             <div class="fon"></div>
                             <p>Контакты Ивана</p>
                             <ul>
@@ -350,8 +361,10 @@
                         </div>
                         <h5>Иванов Иван</h5>
                         <h6>Менеджер</h6>
+
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam debitis dicta ex illo minus
                             nemo quidem sequi, similique. Nihil, repudiandae.</p>
+
                         <div class="skillbar">
                             <div class="skillbar-title">
                                 <span>lorem</span>
@@ -384,6 +397,7 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="team-baner-text wow animated bounceInUp" data-wow-delay="1s">
                             <h4>Наши контакты</h4>
+
                             <div class="team-link">
                                 <a href="#contact">Перейти</a>
                             </div>
@@ -419,7 +433,9 @@
                             <i class="fa fa-sitemap"></i>
                         </div>
                         <div class="count">
-                            <h4 class="wow-count" data-refresh-interval="50" data-speed="3000" data-to="49" data-from="0">0</h4>
+                            <h4 class="wow-count" data-refresh-interval="50" data-speed="3000" data-to="49"
+                                data-from="0">0</h4>
+
                             <p>Lorem ipsum <span>dolor</span></p>
                         </div>
                     </div>
@@ -428,7 +444,9 @@
                             <i class="fa fa-sitemap"></i>
                         </div>
                         <div class="count">
-                            <h4 class="wow-count" data-refresh-interval="50" data-speed="3000" data-to="124" data-from="0">0</h4>
+                            <h4 class="wow-count" data-refresh-interval="50" data-speed="3000" data-to="124"
+                                data-from="0">0</h4>
+
                             <p>Lorem ipsum <span>dolor</span></p>
                         </div>
                     </div>
@@ -437,7 +455,9 @@
                             <i class="fa fa-sitemap"></i>
                         </div>
                         <div class="count">
-                            <h4 class="wow-count" data-refresh-interval="50" data-speed="3000" data-to="568" data-from="0">0</h4>
+                            <h4 class="wow-count" data-refresh-interval="50" data-speed="3000" data-to="568"
+                                data-from="0">0</h4>
+
                             <p>Lorem ipsum <span>dolor</span></p>
                         </div>
                     </div>
@@ -446,7 +466,9 @@
                             <i class="fa fa-sitemap"></i>
                         </div>
                         <div class="count">
-                            <h4 class="wow-count" data-refresh-interval="50" data-speed="3000" data-to="1579" data-from="0">0</h4>
+                            <h4 class="wow-count" data-refresh-interval="50" data-speed="3000" data-to="1579"
+                                data-from="0">0</h4>
+
                             <p>Lorem ipsum <span>dolor</span></p>
                         </div>
                     </div>
@@ -457,6 +479,137 @@
 </sektion>
 <sektion id="section-7">
     <div class="content-section-7">
+        <h2>Lorem ipsum dolor sit.</h2>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="owl-info" class="owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div id="owl-slyd-1" class="owl-carousel owl-theme">
+                                            <div class="item">
+                                                <img src="/css/img/owl-1.png" alt="zxc">
+                                            </div>
+                                            <div class="item">
+                                                <img src="/css/img/owl-2.png" alt="zxc">
+                                            </div>
+                                            <div class="item">
+                                                <img src="/css/img/owl-3.png" alt="zxc">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 slyd1-text">
+                                        <div class="continer">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-4 slyd2-text right">
+                                        <div class="continer">
+                                            <div class="row">
+                                                <col-md-12>
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </col-md-12>
+                                                <col-md-12>
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </col-md-12>
+                                                <col-md-12>
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </col-md-12>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div id="owl-slyd-2" class="owl-carousel owl-theme">
+                                            <div class="item">
+                                                <img src="/css/img/owl-2-1.png" alt="zxc">
+                                            </div>
+                                            <div class="item">
+                                                <img src="/css/img/owl-2-2.png" alt="zxc">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 slyd2-text left">
+                                        <div class="continer">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <span><i class="fa fa-sitemap"></i></span>
+                                                    <h5>Lorem ipsum.</h5>
+
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                        Consectetur, perspiciatis.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</sektion>
+<sektion id="section-8">
+    <div class="content-section-8">
+        sdf
     </div>
 </sektion>
 
