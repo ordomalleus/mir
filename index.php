@@ -609,7 +609,96 @@
 </sektion>
 <sektion id="section-8">
     <div class="content-section-8">
-        sdf
+        <div class="title">
+            <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h2>
+            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, necessitatibus?</h4>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 wow animated rotateInDownLeft">
+                    <div class="rabota-block">
+                        <div class="title">
+                            <p>Lorem</p>
+                        </div>
+                        <div class="content">
+                            <div class="price">
+                                <i class="fa fa-rub"></i> 3500
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis nisi quaerat quasi
+                                recusandae sed similique unde? Corporis culpa ea minus!
+                            </p>
+                            <ul>
+                                <li><span>Lorem </span>Lorem ipsum.</li>
+                                <li><span>Lorem </span>Deleniti, tempora.</li>
+                                <li><span>Lorem </span>At, dolorum!</li>
+                                <li><span>Lorem </span>Cum, esse?</li>
+                                <li><span>Lorem </span>Accusamus, amet?</li>
+                            </ul>
+                        </div>
+                        <div class="foter">
+                            <p>Lorem ipsum dolor.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 wow animated fadeInDown">
+                    <div class="rabota-block">
+                        <div class="title">
+                            <p>Lorem</p>
+                        </div>
+                        <div class="content">
+                            <div class="price">
+                                <i class="fa fa-rub"></i> 3500
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis nisi quaerat quasi
+                                recusandae sed similique unde? Corporis culpa ea minus!
+                            </p>
+                            <ul>
+                                <li><span>Lorem </span>Lorem ipsum.</li>
+                                <li><span>Lorem </span>Deleniti, tempora.</li>
+                                <li><span>Lorem </span>At, dolorum!</li>
+                                <li><span>Lorem </span>Cum, esse?</li>
+                                <li><span>Lorem </span>Accusamus, amet?</li>
+                            </ul>
+                        </div>
+                        <div class="foter">
+                            <p>Lorem ipsum dolor.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 wow animated rotateInDownRight">
+                    <div class="rabota-block">
+                        <div class="title">
+                            <p>Lorem</p>
+                        </div>
+                        <div class="content">
+                            <div class="price">
+                                <i class="fa fa-rub"></i> 3500
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis nisi quaerat quasi
+                                recusandae sed similique unde? Corporis culpa ea minus!
+                            </p>
+                            <ul>
+                                <li><span>Lorem </span>Lorem ipsum.</li>
+                                <li><span>Lorem </span>Deleniti, tempora.</li>
+                                <li><span>Lorem </span>At, dolorum!</li>
+                                <li><span>Lorem </span>Cum, esse?</li>
+                                <li><span>Lorem </span>Accusamus, amet?</li>
+                            </ul>
+                        </div>
+                        <div class="foter">
+                            <p>Lorem ipsum dolor.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</sektion>
+<sektion id="section-9">
+    <div class="content-section-9">
     </div>
 </sektion>
 

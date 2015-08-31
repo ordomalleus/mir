@@ -988,12 +988,15 @@ a.navbar-brand img {
     color: #7a7a7a;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
 }
+
 #section-7 .item .slyd2-text.right {
     text-align: right;
 }
+
 #section-7 .item .slyd2-text.left {
     text-align: left;
 }
+
 #section-7 .item .slyd2-text span {
     font-size: 16px;
     line-height: 16px;
@@ -1017,15 +1020,138 @@ a.navbar-brand img {
     color: #7a7a7a;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
 }
-/*---------------Section7----------------*/
 
 /*---------------Section7----------------*/
-#section-8 .content-section-8{
+
+/*---------------Section8----------------*/
+#section-8 .content-section-8 {
     background: url('/css/img/ticks.png') repeat;
+    text-align: center;
+    overflow: hidden;
+}
+
+#section-8 .title h2 {
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 48px;
+    color: #E74C3C;
+}
+
+#section-8 .title h4 {
+    font-weight: 300;
+    color: #6C6C6C;
+    padding: 0px 0px 80px;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+#section-8 .rabota-block {
+    margin-bottom: 20px;
+}
+
+#section-8 .rabota-block .title p {
+    position: relative;
+    display: block;
+    width: 100%;
+    background: #2f2f2f;
+    color: #fff;
+    padding: 16px 0;
+    margin: 0;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    transition: all 0.2s;
+    font-size: 24px;
+}
+
+#section-8 .rabota-block .title p:after {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(47, 47, 47, 0);
+    border-top-color: #2f2f2f;
+    border-width: 16px;
+    margin-left: -16px;
+}
+
+#section-8 .rabota-block:hover .title p{
+    color: #e74c3c;
+}
+
+#section-8 .rabota-block .content {
+    padding: 24px;
+    background: #E8E8E8;
+}
+
+#section-8 .rabota-block .content .price {
+    font-size: 48px;
+    margin: 8px 0 24px 0;
+    font-weight: 400;
+}
+
+#section-8 .rabota-block .content .price i {
+    vertical-align: super;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#section-8 .rabota-block .content p {
+    font-size: 14px;
+    margin-bottom: 16px;
+    line-height: 20px;
+}
+
+#section-8 .rabota-block .content ul {
+    margin-top: 16px;
+    text-decoration: none;
+}
+
+#section-8 .rabota-block .content ul li {
+    border-bottom: 1px dashed #C4C4C4;
+    padding: 15px 0;
+    text-transform: uppercase;
+    cursor: default;
+    font-size: 16px;
+}
+
+#section-8 .rabota-block .content ul li span {
+    color: #e74c3c;
+}
+
+#section-8 .rabota-block .foter {
+    background: #6c6c6c;
+    color: #fff;
+    width: 100%;
+    display: block;
+    padding: 16px 0;
+    text-transform: uppercase;
+    font-weight: 400;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+}
+#section-8 .rabota-block:hover .foter{
+    background: #2f2f2f;
+}
+
+/*---------------Section8----------------*/
+
+
+/*---------------Section9----------------*/
+
+#section-9 .content-section-9{
     width: 100%;
     height: 100%;
+    background: url('/css/img/ticks.png') repeat;
+    text-align: center;
+    overflow: hidden;
 }
-/*---------------Section7----------------*/
+
+/*---------------Section9----------------*/
 
 /*медиа запросы*/
 @media (max-width: 980px) {
